@@ -44,5 +44,12 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a Platform Engineer and old sysadmin evolved to SRE in the devops wave.
-- :telescope: I'm working as a Devops Director and infrastructure Architect for @lulobank.
+I am a sysadmin evolved to Cloud Platform Architect.
+
+- :telescope: I'm working as a Devops Director and infrastructure Architect for @piso19.
+
+- :seedling: Explore cloud technical stuff, and advocating Devops culture usage.
+
+- :zap: In my free time, I write code and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-llanes-senior-sre/)
