@@ -65,6 +65,8 @@ I am a sysadmin evolved to Cloud Platform Architect.
 ---
 
 ### :fire: My Stats :
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
+https://streak-stats.demolab.com/
+[![GitHub Streak](http://streak-stats.demolab.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-llanes&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
