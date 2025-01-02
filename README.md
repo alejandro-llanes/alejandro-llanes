@@ -74,17 +74,17 @@ I am a sysadmin evolved to Cloud Platform Architect.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div align="center" >
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original-wordmark.svg" title="Pulumi" alt="Terraform" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original.svg" title="Pulumi" alt="Terraform" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="Jenkins" alt="Jenkins" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-original.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="Argo" alt="Argo" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="Lua" alt="Lua" width="40" height="40"/>
@@ -94,6 +94,10 @@ I am a sysadmin evolved to Cloud Platform Architect.
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="K8S" alt="K8S" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/podman/podman-original.svg" title="Podman" alt="Podman" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Bitbucket" alt="Bitbucket" width="40" height="40"/>
 </div>
 
 ---
