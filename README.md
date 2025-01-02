@@ -52,4 +52,4 @@ I am a sysadmin evolved to Cloud Platform Architect.
 
 - :zap: In my free time, I write code and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-llanes-senior-sre/)
+- :mailbox:How to reach me: [![![](https://i.sstatic.net/gVE0j.png)](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-llanes-senior-sre/)
