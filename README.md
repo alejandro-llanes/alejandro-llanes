@@ -40,3 +40,9 @@ Here are some ideas to get you started:
 <div align="center">
   <Img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZG9wYXE0bmsyb25vaWN0cXF2MGUzdGx4a3o0NnV2ejVoZ3VvZzFjNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+### :man_technologist: About Me :
+I am a Platform Engineer and old sysadmin evolved to SRE in the devops wave.
+- :telescope: I'm working as a Devops Director and infrastructure Architect for @lulobank.
