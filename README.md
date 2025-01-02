@@ -29,6 +29,9 @@ Here are some ideas to get you started:
   <a href="https://www.upwork.com/freelancers/~012509d598ad2e57b9?mp_source=share">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=">
   </a>
+  <a href="https://gitlab.com/alejandro-llanes">
+<img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white" />
+</a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=alejandro-llanes&style=flat-square&color=blue" alt=""/>
 </div>
