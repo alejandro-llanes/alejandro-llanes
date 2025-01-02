@@ -59,14 +59,23 @@ I am a sysadmin evolved to Cloud Platform Architect.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="Amazon Web Services" alt="Amazon Web Services" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original-wordmark.svg" title="Google Cloud" alt="Google Cloud" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;
+
+    <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
+
     <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original-wordmark.svg" title="Gentoo Linux" alt="Gentoo Linux" width="40" height="40"/>&nbsp;
+    
+    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>&nbsp;
 </div>
 
 ---
 
 ### :fire: My Stats :
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)-->
-https://streak-stats.demolab.com/
 [![GitHub Streak](http://streak-stats.demolab.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-llanes&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
