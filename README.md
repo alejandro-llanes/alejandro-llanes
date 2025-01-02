@@ -52,4 +52,19 @@ I am a sysadmin evolved to Cloud Platform Architect.
 
 - :zap: In my free time, I write code and read tech articles.
 
-- :mailbox:How to reach me: [![![](https://i.sstatic.net/gVE0j.png)](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-llanes-senior-sre/)
+- :mailbox:How to reach me: [![LinkedIn](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-llanes-senior-sre/)
+
+--- 
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original-wordmark.svg" title="Gentoo Linux" alt="Gentoo Linux" width="40" height="40"/>&nbsp;
+</div>
+
+---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alejandro-llanes&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-llanes&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
