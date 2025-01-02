@@ -83,7 +83,7 @@ I am a sysadmin evolved to Cloud Platform Architect.
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original-wordmark.svg" title="Pulumi" alt="Terraform" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plan-wordmark.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/circleci/circleci-plain-wordmark.svg" title="CircleCi" alt="CircleCi" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>
 </div>
 
