@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **alejandro-llanes/alejandro-llanes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +15,10 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHVqMHE0Y3RnMzU3YTc1MmR3NXA5MzhkNWEzOGN1dmo3aGR2MDI0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DwlFRgKo87zDW/giphy.webp" width="100"/>
+</div>
+
+<div id="badges">
+ <a href="https://www.linkedin.com/in/alejandro-llanes-senior-sre/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alejandro Llanes"/>
+  </a>
 </div>
