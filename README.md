@@ -69,7 +69,7 @@ I am a sysadmin evolved to Cloud Platform Architect.
 
     <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original-wordmark.svg" title="Gentoo Linux" alt="Gentoo Linux" width="40" height="40"/>&nbsp;
     
-    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>
 </div>
 
 ---
