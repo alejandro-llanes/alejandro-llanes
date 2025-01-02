@@ -20,8 +20,16 @@ Here are some ideas to get you started:
 <br/>
 
 <div id="badges" align="center">
- <a href="https://www.linkedin.com/in/alejandro-llanes-senior-sre/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alejandro Llanes"/>
+  <a href="https://www.linkedin.com/in/alejandro-llanes-senior-sre/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="Alejandro Llanes"/>
+  </a>
+  <br/>
+  <a href="https://www.hackerrank.com/profile/alejandro_llanes">
+   <img src="https://img.shields.io/badge/-Hackerrank-00EA64?style=flat&logo=HackerRank&logoColor=white" />
+  </a>
+  <br/>
+  <a href="https://www.upwork.com/freelancers/~012509d598ad2e57b9?mp_source=share">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Upwork&color=222222&logo=Upwork&logoColor=6FDA44&label=">
   </a>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=alejandro-llanes&style=flat-square&color=blue" alt=""/>
@@ -66,7 +74,7 @@ I am a sysadmin evolved to Cloud Platform Architect.
     <img src="https://github.com/devicons/devicon/blob/master/icons/vercel/vercel-original-wordmark.svg" title="Vercel" alt="Vercel" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/netlify/netlify-original-wordmark.svg" title="Netlify" alt="Netlify" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original-wordmark.svg" title="Terraform" alt="Terraform" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original-wordmark.svg" title="Pulumi" alt="Pulumi" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/pulumi/pulumi-original-wordmark.svg" title="Pulumi" alt="Terraform" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/gentoo/gentoo-original-wordmark.svg" title="Gentoo Linux" alt="Gentoo Linux" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original-wordmark.svg" title="Argo" alt="Argo" width="40" height="40"/>
 </div>
